@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+# Pomodoro Timer
+
 import sys
 import time
 import argparse
